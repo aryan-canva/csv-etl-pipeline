@@ -1,0 +1,19 @@
+{
+  "input": {
+    "users_file": "data/raw/users.csv",
+    "orders_file": "data/raw/orders.csv"
+  },
+  "output": {
+    "joined_file": "data/output/orders_enriched.csv"
+  },
+  "join": {
+    "key": "user_id",
+    "missing_value": "UNKNOWN"
+  },
+  "processing": {
+    "chunk_size": 3
+  },
+  "logging": {
+    "level": "INFO"
+  }
+}

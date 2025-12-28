@@ -1,0 +1,29 @@
+2025-12-28 14:58:03,424 | INFO | Cleaning job started
+2025-12-28 15:01:20,732 | INFO | Cleaning job started
+2025-12-28 15:01:20,738 | INFO | Chunk 1 | processed=3 valid=1 rejected=2 errors={'Missing Value: name': 1, 'Missing Value: age': 1}
+2025-12-28 15:02:34,690 | INFO | Cleaning job started
+2025-12-28 15:02:34,702 | INFO | Chunk 1 | processed=3 valid=3 rejected=0 errors={}
+2025-12-28 15:02:34,702 | INFO | Chunk 2 | processed=1 valid=1 rejected=0 errors={}
+2025-12-28 15:02:34,703 | INFO | Cleaning job finished
+2025-12-28 15:08:14,397 | INFO | Join job started
+2025-12-28 15:08:14,411 | INFO | Join job finished
+2025-12-28 15:08:48,105 | INFO | Aggregation by user started
+2025-12-28 15:11:08,954 | INFO | Aggregation by user started
+2025-12-28 15:11:08,955 | INFO | Aggregation by user finished
+2025-12-28 15:12:00,852 | INFO | Daily revenue aggregation started
+2025-12-28 15:13:45,548 | INFO | Daily revenue aggregation started
+2025-12-28 15:13:45,549 | INFO | Daily revenue aggregation finished
+2025-12-28 15:23:53,363 | INFO | Cleaning job started
+2025-12-28 15:23:53,365 | INFO | Chunk 1 | processed=3 valid=3 rejected=0 errors={}
+2025-12-28 15:23:53,365 | INFO | Chunk 2 | processed=1 valid=1 rejected=0 errors={}
+2025-12-28 15:23:53,366 | INFO | Cleaning job finished
+2025-12-28 15:24:10,300 | INFO | Join job started
+2025-12-28 15:24:10,301 | INFO | Join job finished
+2025-12-28 15:24:14,905 | INFO | Aggregation by user started
+2025-12-28 15:24:14,906 | INFO | Aggregation by user finished
+2025-12-28 15:24:18,264 | INFO | Daily revenue aggregation started
+2025-12-28 15:24:18,266 | INFO | Daily revenue aggregation finished
+2025-12-28 15:24:22,556 | INFO | Cleaning job started
+2025-12-28 15:24:22,557 | INFO | Chunk 1 | processed=3 valid=3 rejected=0 errors={}
+2025-12-28 15:24:22,557 | INFO | Chunk 2 | processed=1 valid=1 rejected=0 errors={}
+2025-12-28 15:24:22,558 | INFO | Cleaning job finished

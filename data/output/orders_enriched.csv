@@ -1,0 +1,9 @@
+order_id,user_id,order_date,amount,name,country
+101,1,2025-01-01,100,Alice,IN
+102,2,2025-01-01,200,Bob,US
+103,1,2025-01-01,150,Alice,IN
+104,3,2025-01-01,50,Charlie,IN
+105,4,2025-01-02,300,Diana,UK
+106,1,2025-01-02,400,Alice,IN
+107,2,2025-01-02,100,Bob,US
+108,3,2025-01-02,200,Charlie,IN

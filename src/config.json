@@ -1,0 +1,22 @@
+{
+  "chunk_size": 3,
+
+  "input_path": "data/raw/students.csv",
+  "output_path": "data/output/clean.csv",
+  "reject_output_path": "data/output/rejected.csv",
+
+  "schema": {
+    "id": "int",
+    "name": "str",
+    "age": "int",
+    "score": "int"
+  },
+
+  "garbage_values": [
+    "na",
+    "n/a",
+    "null",
+    "none",
+    "not_available"
+  ]
+}
