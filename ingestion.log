@@ -27,3 +27,8 @@
 2025-12-28 15:24:22,557 | INFO | Chunk 1 | processed=3 valid=3 rejected=0 errors={}
 2025-12-28 15:24:22,557 | INFO | Chunk 2 | processed=1 valid=1 rejected=0 errors={}
 2025-12-28 15:24:22,558 | INFO | Cleaning job finished
+2025-12-28 15:30:35,538 | INFO | Cleaning job started
+2025-12-28 15:30:46,264 | INFO | Cleaning job started
+2025-12-28 15:30:46,265 | INFO | Chunk 1 | processed=3 valid=3 rejected=0 errors={}
+2025-12-28 15:30:46,266 | INFO | Chunk 2 | processed=1 valid=1 rejected=0 errors={}
+2025-12-28 15:30:46,266 | INFO | Cleaning job finished

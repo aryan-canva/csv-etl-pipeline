@@ -52,7 +52,7 @@ def run():
 
     with open(CONFIG["input_path"], newline="") as src, \
          open(CONFIG["output_path"], "w", newline="") as clean_f, \
-         open("rejected.csv", "w", newline="") as bad_f:
+         open("data/output/rejected.csv", "w", newline="") as bad_f:
 
         reader = csv.DictReader(src)
         clean_writer = csv.DictWriter(clean_f, fieldnames=schema.keys())
